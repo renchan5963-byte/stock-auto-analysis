@@ -1,1 +1,2 @@
-auto_stock_analysis.py
+print("ready")
+
