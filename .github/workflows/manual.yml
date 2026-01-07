@@ -27,3 +27,4 @@ jobs:
       - name: Run stock analysis
         run: |
           python auto_stock_analysis.py
+
